@@ -1,0 +1,7 @@
+google-cloud-secret-manager
+google-api-python-client
+google-auth
+google-genai
+markdown
+google-cloud-firestore
+requests
